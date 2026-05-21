@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husnainsyedale&color=blue&style=for-the-badge&label=Profile+Views" />
+</p>
