@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,c,cs,cpp,kotlin" />
+  <img src="https://skillicons.dev/icons?i=swift,python,typescript,javascript,kotlin,html,css,cs,java,c,cpp,sql" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
